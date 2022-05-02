@@ -32,7 +32,7 @@ the Weboilerpack-v1.1.2 support (service-worker)
 
 - more control over your service worker.
 - precache files.
-- more complex needs in terms of routing.
+- complex needs in terms of offline service.
 - use service worker with other API's.
 
 ### Development server
